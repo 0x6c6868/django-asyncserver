@@ -1,0 +1,6 @@
+build/*
+dist/*
+django_asyncserver.egg-info/*
+.idea/*
+*.pyc
+*.sqlite3
